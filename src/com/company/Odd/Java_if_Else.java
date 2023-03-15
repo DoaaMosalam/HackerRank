@@ -1,6 +1,4 @@
-package com.company;
-
-import org.w3c.dom.ls.LSOutput;
+package com.company.Odd;
 
 import java.util.*;
 
@@ -45,27 +43,9 @@ public class Java_if_Else {
 
 
 
-
-//------------------------------------------------------------------------------------
-
-    public void StdinandStdoutII() {
-        Scanner scan = new Scanner(System.in);
-        System.out.println("Input User is : ");
-        int i = scan.nextInt();
-        double d = scan.nextDouble();
-        // scan.nextLine();
-        String s = scan.next();
-        s += scan.nextLine();
-
-        System.out.println("String:\t " + s);
-        System.out.println("Double: " + d);
-        System.out.println("Int: " + i);
-    }
-
     public static void main(String[] args) {
         Java_if_Else javaIfElse = new Java_if_Else();
-//        javaIfElse.odd_even();
-//        javaIfElse.StdinandStdoutII();
+
     }
 
 

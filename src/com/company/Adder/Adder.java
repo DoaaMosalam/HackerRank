@@ -1,6 +1,5 @@
 package com.company.Adder;
 
-
 public class Adder extends Arithmetic {
     public int add(int a1,int a2){
         return a1 + a2;
@@ -18,3 +17,5 @@ public class Adder extends Arithmetic {
     }
 
 }
+
+

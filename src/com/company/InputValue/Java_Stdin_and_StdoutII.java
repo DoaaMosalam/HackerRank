@@ -1,4 +1,4 @@
-package com.company;
+package com.company.InputValue;
 
 import java.util.Scanner;
 
@@ -21,7 +21,6 @@ public class Java_Stdin_and_StdoutII {
         System.out.println("Double: " + d);
         System.out.println("Int: " + i);
     }
-
     public static void main(String[] args) {
         Java_Stdin_and_StdoutII sas11 = new Java_Stdin_and_StdoutII();
 //        sas11.StdinandStdoutII();

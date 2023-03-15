@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Multiplication_table;
 
 import java.util.Scanner;
 
@@ -40,5 +40,10 @@ public class  Multiplication_table {
 //        scanner.close();
 //
         }
+
+    public static void main(String[] args) {
+          Multiplication_table mt = new Multiplication_table();
+        Multiplication_table.solution();
+    }
 
 }

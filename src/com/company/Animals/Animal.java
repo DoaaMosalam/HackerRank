@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Animals;
 
 public class Animal {
     void walk(){

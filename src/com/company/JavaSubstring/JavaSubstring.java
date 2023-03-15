@@ -1,10 +1,14 @@
-package com.company;
+package com.company.JavaSubstring;
 
 import org.w3c.dom.ls.LSOutput;
 
 import java.util.Scanner;
 
 public class JavaSubstring {
+    public static void main(String[] args) {
+        JavaSubstring sub = new JavaSubstring();
+        sub.solution();
+    }
     public void solution() {
 
         Scanner in = new Scanner(System.in);

@@ -1,8 +1,12 @@
-package com.company;
+package com.company.Loop;
 
 import java.util.Scanner;
 
 public class JavaLoops11 {
+    public static void main(String[] args) {
+        JavaLoops11 javaloop = new JavaLoops11();
+        javaloop.SolutionLopps2();
+    }
     public void SolutionLopps2(){
 
         Scanner in = new Scanner(System.in);
