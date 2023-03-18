@@ -25,8 +25,6 @@ public class  Multiplication_table {
         }
 
 //----------------------------------------------------
-
-
 //       Scanner scanner = new Scanner(System.in);
 //        System.out.println("Write your number to division: ");
 //        int a = scanner.nextInt();

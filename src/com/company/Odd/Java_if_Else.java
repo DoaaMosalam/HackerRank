@@ -19,32 +19,31 @@ import java.util.*;
  */
 
 public class Java_if_Else {
-    int odd = 0;
-    public void javaifelse(){
-
-
-            System.out.println("Enter Your Number : ");
-            Scanner scanner = new Scanner(System.in);
-            int N = scanner.nextInt();
-            String answer = "";
-            if (N % 2 == 1) {
-                answer = "Weird";
-            } else if (N >= 2 && N <= 5) {
-                answer = "Not Weird";
-            } else if (N >= 5 && N <= 20) {
-                answer = "Weird";
-            }
-            else
-                answer = "Not Weird";
-
-            System.out.println(answer);
-
-        }
+    public void javaifelse() {
+        System.out.println("Enter Your number: ");
+        Scanner input = new Scanner(System.in);
+        int N = input.nextInt();
+       if (N % 2 !=0){
+           System.out.println("Weird");
+       }else {
+           if (N %2 == 0 ){
+               System.out.println("Not Weird");
+           }else if (N>=2 && N<=5){
+               System.out.println("Not Weird");
+           }else if (N>=6 && N<=20){
+               System.out.println("Weird");
+           }
+           else {
+               System.out.println("Not Weird");
+           }
+       }
+    }
 
 
 
     public static void main(String[] args) {
         Java_if_Else javaIfElse = new Java_if_Else();
+       javaIfElse.javaifelse();
 
     }
 
