@@ -1,6 +1,4 @@
-package com.company.JavaSubstring;
-
-import org.w3c.dom.ls.LSOutput;
+package com.company.ThirtyDaysOfCode.JavaSubstring;
 
 import java.util.Scanner;
 

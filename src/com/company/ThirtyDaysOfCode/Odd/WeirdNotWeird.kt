@@ -1,4 +1,4 @@
-package com.company.Odd
+package com.company.ThirtyDaysOfCode.Odd
 
 fun main(){
     val N:Int = readLine()!!.toInt()

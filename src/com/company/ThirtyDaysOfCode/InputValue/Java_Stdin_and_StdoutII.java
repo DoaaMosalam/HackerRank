@@ -1,4 +1,4 @@
-package com.company.InputValue;
+package com.company.ThirtyDaysOfCode.InputValue;
 
 import java.util.Scanner;
 

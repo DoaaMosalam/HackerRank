@@ -1,4 +1,4 @@
-package com.company.DataTypes;
+package com.company.ThirtyDaysOfCode.DataTypes;
 
 
 import java.util.Scanner;

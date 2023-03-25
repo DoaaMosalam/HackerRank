@@ -1,4 +1,4 @@
-package com.company.Person
+package com.company.ThirtyDaysOfCode.Person
 
 class PersonKt {
     var age=0

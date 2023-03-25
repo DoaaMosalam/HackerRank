@@ -1,4 +1,4 @@
-package com.company.JavaStringsIntroduction;
+package com.company.ThirtyDaysOfCode.JavaStringsIntroduction;
 
 import java.util.Scanner;
 

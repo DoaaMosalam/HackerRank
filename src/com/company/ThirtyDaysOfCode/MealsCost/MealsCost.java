@@ -1,4 +1,4 @@
-package com.company.MealsCost;
+package com.company.ThirtyDaysOfCode.MealsCost;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.company.Loop;
+package com.company.ThirtyDaysOfCode.Loop;
 
 import java.util.Scanner;
 

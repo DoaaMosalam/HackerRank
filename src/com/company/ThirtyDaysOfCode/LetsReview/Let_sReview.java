@@ -1,4 +1,4 @@
-package com.company.LetsReview;
+package com.company.ThirtyDaysOfCode.LetsReview;
 
 import java.util.Scanner;
 /*Task

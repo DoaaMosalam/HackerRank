@@ -1,4 +1,4 @@
-package com.company.Multiplication_table
+package com.company.ThirtyDaysOfCode.Multiplication_table
 
 fun main(args: Array<String>) {
     val m = mutip()
