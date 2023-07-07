@@ -23,7 +23,7 @@ public class Java_Stdin_and_StdoutII {
     }
     public static void main(String[] args) {
         Java_Stdin_and_StdoutII sas11 = new Java_Stdin_and_StdoutII();
-//        sas11.StdinandStdoutII();
+        sas11.StdinandStdoutII();
     }
 
 }
